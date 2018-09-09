@@ -1,0 +1,11 @@
+C:\Users\faben\Dropbox\GitHub\C#\UsingConsole\ConsoleApp1\bin\Debug\netcoreapp2.0\UsingConsole.deps.json
+C:\Users\faben\Dropbox\GitHub\C#\UsingConsole\ConsoleApp1\bin\Debug\netcoreapp2.0\UsingConsole.runtimeconfig.json
+C:\Users\faben\Dropbox\GitHub\C#\UsingConsole\ConsoleApp1\bin\Debug\netcoreapp2.0\UsingConsole.runtimeconfig.dev.json
+C:\Users\faben\Dropbox\GitHub\C#\UsingConsole\ConsoleApp1\bin\Debug\netcoreapp2.0\UsingConsole.dll
+C:\Users\faben\Dropbox\GitHub\C#\UsingConsole\ConsoleApp1\bin\Debug\netcoreapp2.0\UsingConsole.pdb
+C:\Users\faben\Dropbox\GitHub\C#\UsingConsole\ConsoleApp1\obj\Debug\netcoreapp2.0\UsingConsole.csprojAssemblyReference.cache
+C:\Users\faben\Dropbox\GitHub\C#\UsingConsole\ConsoleApp1\obj\Debug\netcoreapp2.0\UsingConsole.csproj.CoreCompileInputs.cache
+C:\Users\faben\Dropbox\GitHub\C#\UsingConsole\ConsoleApp1\obj\Debug\netcoreapp2.0\UsingConsole.AssemblyInfoInputs.cache
+C:\Users\faben\Dropbox\GitHub\C#\UsingConsole\ConsoleApp1\obj\Debug\netcoreapp2.0\UsingConsole.AssemblyInfo.cs
+C:\Users\faben\Dropbox\GitHub\C#\UsingConsole\ConsoleApp1\obj\Debug\netcoreapp2.0\UsingConsole.dll
+C:\Users\faben\Dropbox\GitHub\C#\UsingConsole\ConsoleApp1\obj\Debug\netcoreapp2.0\UsingConsole.pdb
