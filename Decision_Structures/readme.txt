@@ -1,0 +1,1 @@
+if  and if else and switch are equal as java.
