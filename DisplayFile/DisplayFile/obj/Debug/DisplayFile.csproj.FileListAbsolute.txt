@@ -1,0 +1,7 @@
+C:\Users\Alexander\Dropbox\Microsoft\98-361 Software Development Fundamentals\Desktop Applications\DisplayFile\DisplayFile\bin\Debug\DisplayFile.exe.config
+C:\Users\Alexander\Dropbox\Microsoft\98-361 Software Development Fundamentals\Desktop Applications\DisplayFile\DisplayFile\bin\Debug\DisplayFile.exe
+C:\Users\Alexander\Dropbox\Microsoft\98-361 Software Development Fundamentals\Desktop Applications\DisplayFile\DisplayFile\bin\Debug\DisplayFile.pdb
+C:\Users\Alexander\Dropbox\Microsoft\98-361 Software Development Fundamentals\Desktop Applications\DisplayFile\DisplayFile\obj\Debug\DisplayFile.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Dropbox\Microsoft\98-361 Software Development Fundamentals\Desktop Applications\DisplayFile\DisplayFile\obj\Debug\DisplayFile.exe
+C:\Users\Alexander\Dropbox\Microsoft\98-361 Software Development Fundamentals\Desktop Applications\DisplayFile\DisplayFile\obj\Debug\DisplayFile.pdb
+C:\Users\Alexander\Dropbox\Microsoft\98-361 Software Development Fundamentals\Desktop Applications\DisplayFile\DisplayFile\obj\Debug\DisplayFile.csproj.CoreCompileInputs.cache
