@@ -1,0 +1,11 @@
+C:\Users\Alexander\OneDrive - Universidad de Los Andes\GitHub\C-sharp-notes\ConsoleBasics\ConsoleBasics\bin\Debug\netcoreapp2.1\ConsoleBasics.deps.json
+C:\Users\Alexander\OneDrive - Universidad de Los Andes\GitHub\C-sharp-notes\ConsoleBasics\ConsoleBasics\bin\Debug\netcoreapp2.1\ConsoleBasics.runtimeconfig.json
+C:\Users\Alexander\OneDrive - Universidad de Los Andes\GitHub\C-sharp-notes\ConsoleBasics\ConsoleBasics\bin\Debug\netcoreapp2.1\ConsoleBasics.runtimeconfig.dev.json
+C:\Users\Alexander\OneDrive - Universidad de Los Andes\GitHub\C-sharp-notes\ConsoleBasics\ConsoleBasics\bin\Debug\netcoreapp2.1\ConsoleBasics.dll
+C:\Users\Alexander\OneDrive - Universidad de Los Andes\GitHub\C-sharp-notes\ConsoleBasics\ConsoleBasics\bin\Debug\netcoreapp2.1\ConsoleBasics.pdb
+C:\Users\Alexander\OneDrive - Universidad de Los Andes\GitHub\C-sharp-notes\ConsoleBasics\ConsoleBasics\obj\Debug\netcoreapp2.1\ConsoleBasics.csprojAssemblyReference.cache
+C:\Users\Alexander\OneDrive - Universidad de Los Andes\GitHub\C-sharp-notes\ConsoleBasics\ConsoleBasics\obj\Debug\netcoreapp2.1\ConsoleBasics.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\OneDrive - Universidad de Los Andes\GitHub\C-sharp-notes\ConsoleBasics\ConsoleBasics\obj\Debug\netcoreapp2.1\ConsoleBasics.AssemblyInfoInputs.cache
+C:\Users\Alexander\OneDrive - Universidad de Los Andes\GitHub\C-sharp-notes\ConsoleBasics\ConsoleBasics\obj\Debug\netcoreapp2.1\ConsoleBasics.AssemblyInfo.cs
+C:\Users\Alexander\OneDrive - Universidad de Los Andes\GitHub\C-sharp-notes\ConsoleBasics\ConsoleBasics\obj\Debug\netcoreapp2.1\ConsoleBasics.dll
+C:\Users\Alexander\OneDrive - Universidad de Los Andes\GitHub\C-sharp-notes\ConsoleBasics\ConsoleBasics\obj\Debug\netcoreapp2.1\ConsoleBasics.pdb
