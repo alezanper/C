@@ -40,8 +40,7 @@ namespace Arrays {
                 Console.WriteLine("Popped " + item.ToString() + " off the stack");
                 Console.WriteLine("Stack Count: " + mStack.Count);
                 Console.WriteLine();
-            }
-            
+            }           
 
             /**
              * Using Queue

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6uOi5T55Ruf9j+EztTn1vbTzn3BUCdGlC7KBkU17rsoTkqnrd3NjpvW5nHWL+E0B6syBXWEqOJN9GHiCe9Kcww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faben\\OneDrive - Universidad de los andes\\GitHub\\C-sharp-notes\\ConsoleBasics\\ConsoleBasics\\ConsoleBasics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faben\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\faben\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\faben\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\faben\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\faben\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\faben\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\faben\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

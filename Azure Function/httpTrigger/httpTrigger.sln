@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "httpTrigger", "httpTrigger.csproj", "{589BA260-C3A9-4F1B-97E2-BB44F542E12C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobTriggerCSharp", "..\BlobTriggerCSharp\BlobTriggerCSharp.csproj", "{BD2544BE-BAB9-4559-8DC7-2DD81C7FB80D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{589BA260-C3A9-4F1B-97E2-BB44F542E12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589BA260-C3A9-4F1B-97E2-BB44F542E12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589BA260-C3A9-4F1B-97E2-BB44F542E12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589BA260-C3A9-4F1B-97E2-BB44F542E12C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2544BE-BAB9-4559-8DC7-2DD81C7FB80D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2544BE-BAB9-4559-8DC7-2DD81C7FB80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2544BE-BAB9-4559-8DC7-2DD81C7FB80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2544BE-BAB9-4559-8DC7-2DD81C7FB80D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7673484-C3BB-48E2-B87E-E409C0E00A02}
+	EndGlobalSection
+EndGlobal

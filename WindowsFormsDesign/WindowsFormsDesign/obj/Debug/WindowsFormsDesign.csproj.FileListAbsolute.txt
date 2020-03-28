@@ -18,3 +18,13 @@ C:\Users\faben\Dropbox\GitHub\C#\WindowsFormsDesign\WindowsFormsDesign\obj\Debug
 C:\Users\faben\Dropbox\GitHub\C#\WindowsFormsDesign\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.csproj.CoreCompileInputs.cache
 C:\Users\faben\Dropbox\GitHub\C#\WindowsFormsDesign\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.exe
 C:\Users\faben\Dropbox\GitHub\C#\WindowsFormsDesign\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.pdb
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\WindowsFormsDesign\WindowsFormsDesign\bin\Debug\WindowsFormsDesign.exe.config
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\WindowsFormsDesign\WindowsFormsDesign\bin\Debug\WindowsFormsDesign.exe
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\WindowsFormsDesign\WindowsFormsDesign\bin\Debug\WindowsFormsDesign.pdb
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\WindowsFormsDesign\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.csprojAssemblyReference.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\WindowsFormsDesign\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.Form1.resources
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\WindowsFormsDesign\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.Properties.Resources.resources
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\WindowsFormsDesign\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.csproj.GenerateResource.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\WindowsFormsDesign\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.csproj.CoreCompileInputs.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\WindowsFormsDesign\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.exe
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\WindowsFormsDesign\WindowsFormsDesign\obj\Debug\WindowsFormsDesign.pdb

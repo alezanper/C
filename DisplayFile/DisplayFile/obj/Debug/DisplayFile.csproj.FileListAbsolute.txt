@@ -5,3 +5,10 @@ C:\Users\Alexander\Dropbox\Microsoft\98-361 Software Development Fundamentals\De
 C:\Users\Alexander\Dropbox\Microsoft\98-361 Software Development Fundamentals\Desktop Applications\DisplayFile\DisplayFile\obj\Debug\DisplayFile.exe
 C:\Users\Alexander\Dropbox\Microsoft\98-361 Software Development Fundamentals\Desktop Applications\DisplayFile\DisplayFile\obj\Debug\DisplayFile.pdb
 C:\Users\Alexander\Dropbox\Microsoft\98-361 Software Development Fundamentals\Desktop Applications\DisplayFile\DisplayFile\obj\Debug\DisplayFile.csproj.CoreCompileInputs.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\DisplayFile\DisplayFile\bin\Debug\DisplayFile.exe.config
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\DisplayFile\DisplayFile\bin\Debug\DisplayFile.exe
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\DisplayFile\DisplayFile\bin\Debug\DisplayFile.pdb
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\DisplayFile\DisplayFile\obj\Debug\DisplayFile.csprojAssemblyReference.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\DisplayFile\DisplayFile\obj\Debug\DisplayFile.csproj.CoreCompileInputs.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\DisplayFile\DisplayFile\obj\Debug\DisplayFile.exe
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\DisplayFile\DisplayFile\obj\Debug\DisplayFile.pdb
