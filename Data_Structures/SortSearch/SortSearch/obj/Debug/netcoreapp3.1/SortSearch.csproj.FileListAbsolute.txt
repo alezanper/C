@@ -1,0 +1,13 @@
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\SortSearch\SortSearch\bin\Debug\netcoreapp3.1\SortSearch.exe
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\SortSearch\SortSearch\bin\Debug\netcoreapp3.1\SortSearch.deps.json
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\SortSearch\SortSearch\bin\Debug\netcoreapp3.1\SortSearch.runtimeconfig.json
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\SortSearch\SortSearch\bin\Debug\netcoreapp3.1\SortSearch.runtimeconfig.dev.json
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\SortSearch\SortSearch\bin\Debug\netcoreapp3.1\SortSearch.dll
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\SortSearch\SortSearch\bin\Debug\netcoreapp3.1\SortSearch.pdb
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\SortSearch\SortSearch\obj\Debug\netcoreapp3.1\SortSearch.csprojAssemblyReference.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\SortSearch\SortSearch\obj\Debug\netcoreapp3.1\SortSearch.csproj.CoreCompileInputs.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\SortSearch\SortSearch\obj\Debug\netcoreapp3.1\SortSearch.AssemblyInfoInputs.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\SortSearch\SortSearch\obj\Debug\netcoreapp3.1\SortSearch.AssemblyInfo.cs
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\SortSearch\SortSearch\obj\Debug\netcoreapp3.1\SortSearch.dll
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\SortSearch\SortSearch\obj\Debug\netcoreapp3.1\SortSearch.pdb
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\SortSearch\SortSearch\obj\Debug\netcoreapp3.1\SortSearch.genruntimeconfig.cache
