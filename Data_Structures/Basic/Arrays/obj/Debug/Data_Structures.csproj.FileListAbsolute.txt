@@ -19,3 +19,17 @@ C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Str
 C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Arrays\Arrays\obj\Debug\Data_Structures.csproj.CoreCompileInputs.cache
 C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Arrays\Arrays\obj\Debug\Arrays.exe
 C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Arrays\obj\Debug\Data_Structures.csprojAssemblyReference.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Arrays\obj\Debug\Data_Structures.csproj.CoreCompileInputs.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Arrays\bin\Debug\Structures.exe.config
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Arrays\bin\Debug\Structures.exe
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Arrays\bin\Debug\Structures.pdb
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Arrays\obj\Debug\Structures.exe
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Arrays\obj\Debug\Structures.pdb
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Basic\Arrays\bin\Debug\Structures.exe.config
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Basic\Arrays\bin\Debug\Structures.exe
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Basic\Arrays\bin\Debug\Structures.pdb
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Basic\Arrays\obj\Debug\Data_Structures.csprojAssemblyReference.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Basic\Arrays\obj\Debug\Data_Structures.csproj.CoreCompileInputs.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Basic\Arrays\obj\Debug\Structures.exe
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\Data_Structures\Basic\Arrays\obj\Debug\Structures.pdb

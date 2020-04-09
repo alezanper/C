@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.InteropServices.WindowsRuntime;
 
-namespace Arrays {
+namespace Structures {
     class Program {
         static void Main(string[] args) {
 
@@ -67,9 +68,23 @@ namespace Arrays {
             Console.WriteLine(mQueue.Peek());
 
             /**
+             * Lists
+             */
+            var names = new List<string> { "Alexander", "Juana", "Peter" };
+
+            names.Add("Deadpool");
+            names.Add("Meghan");
+            names.Remove("Peter");
+
+            Console.WriteLine("\nUsing List");
+            foreach(var name in names)
+            {
+                Console.WriteLine(name);
+            }
+
+            /**
              * Dictionary
              */
-
             Dictionary<String, String> mDictionary = new Dictionary<string, string>();
             mDictionary.Add("key1", "First Item");
             mDictionary.Add("key2", "Second Item");
