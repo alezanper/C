@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\faben\\OneDrive - Universidad de los andes\\GitHub\\C-sharp-notes\\ConsoleBasics\\ConsoleBasics\\ConsoleBasics.csproj": {}
+    "C:\\Users\\faben\\OneDrive - Universidad de los andes\\GitHub\\C-sharp-notes\\UsingConsole\\ConsoleApp1\\UsingConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\faben\\OneDrive - Universidad de los andes\\GitHub\\C-sharp-notes\\ConsoleBasics\\ConsoleBasics\\ConsoleBasics.csproj": {
+    "C:\\Users\\faben\\OneDrive - Universidad de los andes\\GitHub\\C-sharp-notes\\UsingConsole\\ConsoleApp1\\UsingConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\faben\\OneDrive - Universidad de los andes\\GitHub\\C-sharp-notes\\ConsoleBasics\\ConsoleBasics\\ConsoleBasics.csproj",
-        "projectName": "ConsoleBasics",
-        "projectPath": "C:\\Users\\faben\\OneDrive - Universidad de los andes\\GitHub\\C-sharp-notes\\ConsoleBasics\\ConsoleBasics\\ConsoleBasics.csproj",
+        "projectUniqueName": "C:\\Users\\faben\\OneDrive - Universidad de los andes\\GitHub\\C-sharp-notes\\UsingConsole\\ConsoleApp1\\UsingConsole.csproj",
+        "projectName": "UsingConsole",
+        "projectPath": "C:\\Users\\faben\\OneDrive - Universidad de los andes\\GitHub\\C-sharp-notes\\UsingConsole\\ConsoleApp1\\UsingConsole.csproj",
         "packagesPath": "C:\\Users\\faben\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\faben\\OneDrive - Universidad de los andes\\GitHub\\C-sharp-notes\\ConsoleBasics\\ConsoleBasics\\obj\\",
+        "outputPath": "C:\\Users\\faben\\OneDrive - Universidad de los andes\\GitHub\\C-sharp-notes\\UsingConsole\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\faben\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.0": {
             "projectReferences": {}
           }
         },
@@ -36,12 +36,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.0": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.0.0, )",
               "autoReferenced": true
             }
           },
@@ -55,7 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

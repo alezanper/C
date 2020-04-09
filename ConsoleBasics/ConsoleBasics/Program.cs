@@ -30,6 +30,28 @@ namespace ConsoleBasics
             decimal c = 1.0M;
             decimal d = 3.0M;
             Console.WriteLine(c / d);
+
+            string p = "Alexander";
+            Console.WriteLine($"My name is {p}");
+            Console.WriteLine($"{p} has {p.Length} letters");
+
+            string q = "     Hello World!     ";
+            Console.WriteLine($"Without Trim:");
+            Console.WriteLine($"{q}");
+            Console.WriteLine($"Using Trim:");
+            Console.WriteLine($"{q.Trim()}");
+
+            string r = "Hello World!";
+            Console.WriteLine($"{r.Replace("Hello", "Bye")}");
+
+            Console.WriteLine($"{r.ToUpper()}");
+            Console.WriteLine($"{r.ToLower()}");
+
+            string s = "jarvis is my copilot";
+            Console.WriteLine(s.Contains("jarvis"));
+
+
+
         }
     }
 }
