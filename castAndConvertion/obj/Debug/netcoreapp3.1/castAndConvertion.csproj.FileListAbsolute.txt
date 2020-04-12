@@ -1,0 +1,13 @@
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\castAndConvertion\bin\Debug\netcoreapp3.1\castAndConvertion.exe
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\castAndConvertion\bin\Debug\netcoreapp3.1\castAndConvertion.deps.json
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\castAndConvertion\bin\Debug\netcoreapp3.1\castAndConvertion.runtimeconfig.json
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\castAndConvertion\bin\Debug\netcoreapp3.1\castAndConvertion.runtimeconfig.dev.json
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\castAndConvertion\bin\Debug\netcoreapp3.1\castAndConvertion.dll
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\castAndConvertion\bin\Debug\netcoreapp3.1\castAndConvertion.pdb
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\castAndConvertion\obj\Debug\netcoreapp3.1\castAndConvertion.csprojAssemblyReference.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\castAndConvertion\obj\Debug\netcoreapp3.1\castAndConvertion.csproj.CoreCompileInputs.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\castAndConvertion\obj\Debug\netcoreapp3.1\castAndConvertion.AssemblyInfoInputs.cache
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\castAndConvertion\obj\Debug\netcoreapp3.1\castAndConvertion.AssemblyInfo.cs
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\castAndConvertion\obj\Debug\netcoreapp3.1\castAndConvertion.dll
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\castAndConvertion\obj\Debug\netcoreapp3.1\castAndConvertion.pdb
+C:\Users\faben\OneDrive - Universidad de los andes\GitHub\C-sharp-notes\castAndConvertion\obj\Debug\netcoreapp3.1\castAndConvertion.genruntimeconfig.cache
