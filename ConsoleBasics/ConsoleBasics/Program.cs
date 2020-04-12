@@ -4,19 +4,40 @@ namespace ConsoleBasics
 {
     class Program
     {
+        static double max;
+        static double min;
         static void Main(string[] args)
         {
+            /**
+             * For extra information about datatypes use:
+             * https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables
+             */
             Console.WriteLine("The current time is: " + DateTime.Now + "\n");
 
+            Console.WriteLine("Using sbyte:");
+            max = sbyte.MaxValue;
+            min = sbyte.MinValue;
+            Console.WriteLine($"The range of sbyte is {min} to {max}\n");
+
+            Console.WriteLine("Using short:");
+            max = short.MaxValue;
+            min = short.MinValue;
+            Console.WriteLine($"The range of short is {min} to {max}\n");
+
             Console.WriteLine("Using int:");
-            int max = int.MaxValue;
-            int min = int.MinValue;
+            max = int.MaxValue;
+            min = int.MinValue;
             Console.WriteLine($"The range of integers is {min} to {max}\n");
 
+            Console.WriteLine("Using long:");
+            max = long.MaxValue;
+            min = long.MinValue;
+            Console.WriteLine($"The range of long is {min} to {max}\n");
+
             Console.WriteLine("Using double:");
-            double maxd = double.MaxValue;
-            double mind = double.MinValue;
-            Console.WriteLine($"The range of double is {mind} to {maxd}\n");
+            max = double.MaxValue;
+            min = double.MinValue;
+            Console.WriteLine($"The range of double is {min} to {max}\n");
 
             Console.WriteLine("1.0/3.0 usind double is:");
             double third = 1.0 / 3.0;
