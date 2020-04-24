@@ -14,7 +14,21 @@ namespace Branches
             else
                 Console.WriteLine("Answer is lower than 100");
 
+            // Nested branches
 
+            string Name = "Alexander";
+            int Age = 32;
+
+            if (Name.Equals("Alexander"))
+            {
+                if(Age > 18)
+                {
+                    Console.WriteLine(Name + " is older than 18");
+                } else
+                {
+                    Console.WriteLine(Name + " is younger than 18");
+                }
+            }
         }
     }
 }
