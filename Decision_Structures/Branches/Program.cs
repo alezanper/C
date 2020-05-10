@@ -29,6 +29,13 @@ namespace Branches
                     Console.WriteLine(Name + " is younger than 18");
                 }
             }
+
+            // Ternary operators
+
+            int Temperature = 0;
+            string Status;
+            Status = Temperature > 27 ? "Hot" : "Cold";
+            Console.WriteLine(Status);
         }
     }
 }
