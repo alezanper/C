@@ -26,9 +26,22 @@ namespace loops
             counter = 0;
             Console.WriteLine("\nUsing for:");
 
+            // Normal for 
             for(int i = 0; i < limit; i++)
             {
                 Console.WriteLine($"counter value is: {counter}");
+                counter++;
+            }
+
+            // Using break
+            for (int i = 0; i < limit; i++)
+            {
+                Console.WriteLine($"counter value is: {counter}");
+                if (counter == 3)
+                {
+                    Console.WriteLine("Break point");
+                    break;
+                }
                 counter++;
             }
 
